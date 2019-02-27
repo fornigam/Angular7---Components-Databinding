@@ -1,4 +1,4 @@
-# Angular7-Components-Databinding
+# Angular7-Components-Databinding-LifeCycle
 Deep drive of component and data binding in Angular7
 
 ![image](https://user-images.githubusercontent.com/9930400/53233794-386a1400-36b4-11e9-85b1-502afcfe1da0.png)
