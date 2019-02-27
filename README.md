@@ -5,10 +5,11 @@ Deep drive of component and data binding in Angular7
 
 # Lifecycle of Angular-hooks#
 
- ngOnChanges(changes: SimpleChanges) {
-    console.log('ngOnChanges called!');
-    console.log(changes);
-  }
+
+![image](https://user-images.githubusercontent.com/9930400/53487672-2fad7f80-3ab2-11e9-8bf4-fbe40b1ce91c.png)
+
+
+ ngOnChanges(changes: SimpleChanges) {}
 
   ngOnInit() {}
 
