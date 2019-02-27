@@ -6,7 +6,7 @@ Deep drive of component and data binding in Angular7
 # Lifecycle of Angular-hooks#
 
 
-![image](https://user-images.githubusercontent.com/9930400/53487672-2fad7f80-3ab2-11e9-8bf4-fbe40b1ce91c.png)
+![image](https://user-images.githubusercontent.com/9930400/53490097-d6951a00-3ab8-11e9-8e34-5df28b58e055.png)
 
 
  ngOnChanges(changes: SimpleChanges) {}
